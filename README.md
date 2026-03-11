@@ -2,19 +2,11 @@
 
 ![Jeremy Reinhart Parulian](images/github-header-banner%201.png)
 
-  <div align="center">
-
-  </div>
-
 ---
 
-### 🙋‍♂️ About Me
+### About Me
 
-- 💼 **Open to Work** as a **Fullstack Developer**
-- 🚀 Building modern web applications using **React, Next.js, Node.js, Express, and PostgreSQL**
-- 🛠 Experienced in developing **REST APIs, JWT authentication, and responsive UI with Tailwind CSS**
-- 🤝 Comfortable working with **Git & GitHub** in collaborative projects
-- 🎯 Goal: Become a well-rounded **Fullstack Developer** who builds clean, maintainable, and user-friendly products
+I am a graduate of Informatics Engineering from Tarumanagara University with hands-on experience from a Fullstack Developer bootcamp, building several individual and team-based web applications as part of intensive project-based learning.
 
 ---
 
