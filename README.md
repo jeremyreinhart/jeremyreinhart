@@ -75,14 +75,14 @@ Go • React.js • REST API
 A smart web application that extracts receipt data and automatically calculates bill splitting.
 
 **Tech Stack**  
-Next.js 14 • Express.js • Tesseract.js • AI API • Vercel
+Next.js • Tesseract.js • Gemini AI API • Vercel
 
 **Key Features**
 
 - Upload receipt images and extract text using **OCR (Tesseract.js)**
 - Convert OCR text into structured bill data using **AI API**
 - Automatically calculate and split bills among participants
-- Share results instantly via **WhatsApp / Telegram link**
+- Share results instantly via **WhatsApp / Telegram**
 
 <p>
 <a href="https://github.com/jeremyreinhart/split-bill-calculator">
