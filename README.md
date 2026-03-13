@@ -10,6 +10,123 @@ I am a graduate of Informatics Engineering from Tarumanagara University with han
 
 ---
 
+---
+
+---
+
+## ⭐ Featured Projects
+
+### Circle App — Social Media Platform
+
+<p align="center">
+  <img src="images/circle app 2.png" width="800"/>
+</p>
+
+Fullstack social media application with real-time interaction.
+
+**Tech Stack**  
+React.js • Node.js • Express.js • PostgreSQL • Redis • WebSocket • Tailwind CSS
+
+**Key Features**
+
+- JWT authentication & protected routes
+- Create, update, and delete posts
+- Real-time updates using WebSocket
+- Responsive UI
+
+<p>
+<a href="https://github.com/jeremyreinhart/circle-app-fe">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+### Short Link - URL Shortener
+
+<p align="center">
+  <img src="images/shortener.png" width="800"/>
+</p>
+
+A web application to generate and manage shortened URLs.
+
+**Tech Stack**  
+Go • React.js • REST API
+
+**Key Features**
+
+- Generate unique short links
+- RESTful API for managing links
+- Responsive interface for creating short URLs
+
+<p>
+<a href="https://github.com/jeremyreinhart/url-shrotener-fe">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://url-shrotener-fe.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
+
+---
+
+### Split Bill — Smart Receipt Splitter
+
+<p align="center">
+  <img src="images/split-bill 2.png" width="800"/>
+</p>
+
+A smart web application that extracts receipt data and automatically calculates bill splitting.
+
+**Tech Stack**  
+Next.js 14 • Express.js • Tesseract.js • AI API • Vercel
+
+**Key Features**
+
+- Upload receipt images and extract text using **OCR (Tesseract.js)**
+- Convert OCR text into structured bill data using **AI API**
+- Automatically calculate and split bills among participants
+- Share results instantly via **WhatsApp / Telegram link**
+
+<p>
+<a href="https://github.com/jeremyreinhart/split-bill-calculator">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://split-bill-calculator-three.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
+
+---
+
+### Mini Online Store - PhoneStore
+
+<p align="center">
+  <img src="images/phonestore.png" width="800"/>
+</p>
+
+Fullstack e-commerce web application with real-time stock updates.
+
+**Tech Stack**  
+Next.js • Supabase • Zustand • Tailwind CSS • Midtrans
+
+**Key Features**
+
+- Product catalog and shopping cart
+- Real-time stock updates
+- Midtrans payment gateway integration
+
+<p>
+<a href="https://github.com/jeremyreinhart/phonestore">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://phonestore-amber.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 #### 🎨 Frontend
