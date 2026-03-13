@@ -80,7 +80,7 @@ Next.js • Tesseract.js • Gemini AI API • Vercel
 **Key Features**
 
 - Upload receipt images and extract text using **OCR (Tesseract.js)**
-- Convert OCR text into structured bill data using **AI API**
+- Convert OCR text into structured bill data using **Gemini AI API**
 - Automatically calculate and split bills among participants
 - Share results instantly via **WhatsApp / Telegram**
 
