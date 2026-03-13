@@ -10,10 +10,6 @@ I am a graduate of Informatics Engineering from Tarumanagara University with han
 
 ---
 
----
-
----
-
 ## ⭐ Featured Projects
 
 ### Circle App — Social Media Platform
